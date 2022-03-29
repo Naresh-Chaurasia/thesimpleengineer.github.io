@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Welcome to Hugo</title>
-    <link>https://thesimpleengineer.github.io/posts/</link>
+    <link>https://naresh-chaurasia.github.io/thesimpleengineer.github.io/posts/</link>
     <description>Recent content in Posts on Welcome to Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Mar 2022 10:42:28 +0530</lastBuildDate><atom:link href="https://thesimpleengineer.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Mar 2022 10:42:28 +0530</lastBuildDate><atom:link href="https://naresh-chaurasia.github.io/thesimpleengineer.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mypost</title>
-      <link>https://thesimpleengineer.github.io/posts/mypost/</link>
+      <link>https://naresh-chaurasia.github.io/thesimpleengineer.github.io/posts/mypost/</link>
       <pubDate>Tue, 29 Mar 2022 10:42:28 +0530</pubDate>
       
-      <guid>https://thesimpleengineer.github.io/posts/mypost/</guid>
+      <guid>https://naresh-chaurasia.github.io/thesimpleengineer.github.io/posts/mypost/</guid>
       <description>Welcome</description>
     </item>
     
